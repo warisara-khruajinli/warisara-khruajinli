@@ -2,6 +2,9 @@
 - ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴋɪɴɢ ᴍᴏɴɢᴋᴜᴛ’s ᴜɴɪᴠᴇʀsɪᴛʏ ᴏғ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴛʜᴏɴʙᴜʀɪ
 - ʏᴏᴜ ᴄᴀɴ sʜᴏᴏᴛ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ warisara.khrua@mail.kmutt.ac.th ɪ'ʟʟ ᴛʀʏ ᴛᴏ ʀᴇsᴘᴏɴᴅ ᴀs sᴏᴏɴ ᴀs ɪ ᴄᴀɴ
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warisara-khruajinli&show_icons=true&locale=en&layout=compact" alt="warisara-khruajinli" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=warisara-khruajinli&show_icons=true&locale=en&layout=compact" alt="warisara-khruajinli" width="410" /></p>
+<br>
 <!--
 **warisara-khruajinli/warisara-khruajinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
