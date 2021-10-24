@@ -1,4 +1,6 @@
-### ʜɪ ɪ'ᴍ ᴡᴀʀɪsᴀʀᴀ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# ʜɪ ɪ'ᴍ ᴡᴀʀɪsᴀʀᴀ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+- ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴋɪɴɢ ᴍᴏɴɢᴋᴜᴛ’s ᴜɴɪᴠᴇʀsɪᴛʏ ᴏғ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴛʜᴏɴʙᴜʀɪ
+- ʏᴏᴜ ᴄᴀɴ sʜᴏᴏᴛ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ warisara.khrua@mail.kmutt.ac.th ɪ'ʟʟ ᴛʀʏ ᴛᴏ ʀᴇsᴘᴏɴᴅ ᴀs sᴏᴏɴ ᴀs ɪ ᴄᴀɴ
 
 <!--
 **warisara-khruajinli/warisara-khruajinli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
