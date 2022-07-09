@@ -1,4 +1,4 @@
-# ʜɪ ɪ'ᴍ ᴡᴀʀɪsᴀʀᴀ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+# ʜɪ ɪ'ᴍ ᴡᴀʀɪsᴀʀᴀ ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ᴍʏ ɢɪᴛʜᴜʙ ᴘʀᴏғɪʟᴇ
 - 🏫 ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ᴋɪɴɢ ᴍᴏɴɢᴋᴜᴛ’s ᴜɴɪᴠᴇʀsɪᴛʏ ᴏғ ᴛᴇᴄʜɴᴏʟᴏɢʏ ᴛʜᴏɴʙᴜʀɪ
 - 📮 ʏᴏᴜ ᴄᴀɴ sʜᴏᴏᴛ ᴍᴇ ᴀɴ ᴇᴍᴀɪʟ ᴀᴛ warisara.khrua@mail.kmutt.ac.th
 
